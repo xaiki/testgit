@@ -3,5 +3,5 @@ function bye() {
 }
 
 function hello() {
-console.error('oi mundo');
+console.error('ola mundo');
 }
