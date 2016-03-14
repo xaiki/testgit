@@ -1,3 +1,3 @@
 function hello() {
-console.error('hello world');
+console.error('hola mundo');
 }
